@@ -1,0 +1,2 @@
+# SmartCityCoinTestNet
+Smart City Project
